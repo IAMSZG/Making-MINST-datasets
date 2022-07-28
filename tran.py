@@ -1,3 +1,5 @@
+#制作VOC格式的数据集
+
 # import numpy as np
 # import matplotlib.pyplot as plt
 # import matplotlib.patches as mpatches
